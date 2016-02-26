@@ -1,0 +1,2 @@
+# Thunder-Base
+Name scheduled to changed and is currently still in development. Programmed by David Veloso and Andre Ribau. Thunder Base is a base defense/strategy game written in java. The game will be text based but will implement javafx to create a more interactive experience for the player. The game features a detailed map with specific coordinates on the map, in-game characters with detailed profiles and AI that acts differently with every round. 
