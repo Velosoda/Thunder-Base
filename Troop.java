@@ -10,7 +10,7 @@ public class Troop {
 	int position=0;
 	boolean targetable = false;
 
-	//this method acts like the manipulator of the above data
+	//this method takes the mental states and gives the troop stat changes 
 	public void mentalChanges(){
 		if(shocked==1)aim=3;
 		if(shocked==2){
